@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-popup-overlay</artifactId>
-    <version>1.7.4-SNAPSHOT</version>
+    <version>1.7.4</version>
     <name>jQuery Popup Overlay</name>
     <description>WebJar for jQuery Popup Overlay</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/jquery-popup-overlay</url>
         <connection>scm:git:https://github.com/webjars/jquery-popup-overlay.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-popup-overlay.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jquery-popup-overlay-1.7.4</tag>
     </scm>
     
     <dependencies>
